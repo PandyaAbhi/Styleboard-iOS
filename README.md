@@ -1,7 +1,7 @@
 # Styleboard
 
 <p align="center">
-  <img src="ios/ClosetAI/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" width="140" alt="Styleboard app icon">
+  <img src="StyleboardIcon.png" width="140" alt="Styleboard app icon">
 </p>
 
 Styleboard is your private wardrobe and outfit planner for iPhone. It analyzes clothing photos, keeps an editable wardrobe, and suggests outfits using only the clothes you own.
@@ -33,15 +33,12 @@ Follow these steps in order. You do not need Terminal, Docker, or programming kn
 
 ### 2. Download Styleboard
 
-1. Open this repository's GitHub page on your Mac.
-2. Click the green **Code** button.
-3. Click **Download ZIP**.
-4. Open your Mac's **Downloads** folder.
-5. Double-click the downloaded ZIP file to unzip it.
-6. Open the unzipped folder, then open the `ios` folder.
-7. Double-click **ClosetAI.xcodeproj**. It will open in Xcode.
-
-If you already use Git, you may clone the repository instead. Downloading the ZIP is easier for beginners.
+1. On your Mac, click **[Download Styleboard](https://github.com/PandyaAbhi/Styleboard-iOS/raw/refs/heads/main/Styleboard-iOS.zip)**.
+2. If your browser asks whether to download the file, click **Allow** or **Download**.
+3. Open your Mac's **Downloads** folder.
+4. Double-click **Styleboard-iOS.zip** to unzip it.
+5. Open the new **Styleboard-iOS** folder, then open the `ios` folder.
+6. Double-click **ClosetAI.xcodeproj**. It will open in Xcode.
 
 ### 3. Add your Apple ID to Xcode
 
