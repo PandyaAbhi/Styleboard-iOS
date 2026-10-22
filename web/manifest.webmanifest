@@ -1,0 +1,1 @@
+{"name":"Styleboard","short_name":"Styleboard","description":"A private, local-first wardrobe and outfit planner.","start_url":"./","display":"standalone","background_color":"#f4f6f9","theme_color":"#f7f8fb","orientation":"any","icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
